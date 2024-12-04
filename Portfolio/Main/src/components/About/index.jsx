@@ -6,10 +6,10 @@ function About() {
         <i className="Hannah" style={{ fontSize: "95px" }}></i>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+        Hello, my name is Hannah Myers
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        I'm a passionate and dedicated software developer with a focus on creating innovative and user-friendly web applications. With a strong foundation in [programming languages, e.g., JavaScript, Python, etc.], I'm proficient in [relevant technologies, e.g., React, Node.js, SQL, etc.]. I'm always eager to learn new technologies and solve complex problems.
         </p>
       </div>
     </section>
