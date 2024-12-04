@@ -3,7 +3,7 @@ function About() {
     <section className="Studies">
       <div className="Work">
         <div className="profile">
-        <i className="Hannah" style={{ fontSize: "96px" }}></i>
+        <i className="Hannah" style={{ fontSize: "95px" }}></i>
         </div>
         <p>
         Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
